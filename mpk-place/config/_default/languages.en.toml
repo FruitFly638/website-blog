@@ -1,23 +1,23 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "place of mpk"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
+  # logo = "assets/img/mpk.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
   name = "mpk"
-  image = "img/mpk.png"
+  image = "mpk.png"
   headline = "I'd rather be hibernating"
-  bio = "Complete mess and software developer. Yearns for a return to the woods."
+  #bio = "Complete mess and software developer. Yearns for a return to the woods."
   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
@@ -42,7 +42,7 @@ title = "Blowfish"
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
 #     { linkedin = "https://linkedin.com/in/username" },
-    { mastodon = "https://chaos.social/@kodymo" },
+     { mastodon = "https://chaos.social/@kodymo" },
 #     { medium = "https://medium.com/username" },
 #     { microsoft = "https://www.microsoft.com/" },
 #     { orcid = "https://orcid.org/userid" },
